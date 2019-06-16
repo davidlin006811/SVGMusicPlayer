@@ -1,0 +1,15 @@
+{
+  "name": "headphone",
+  "version": "1.0.0",
+  "description": "This is a web site for my headphone design ",
+  "main": "headphone.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Lin",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.5.6",
+    "express": "^4.15.2"
+  }
+}

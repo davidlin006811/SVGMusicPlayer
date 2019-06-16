@@ -1,0 +1,28 @@
+body{
+	background-color: #606060;
+	/*background-image: url(background.jpg);
+	background-repeat:repeat;*/
+}
+
+
+
+#svgobj{
+	position: fixed;
+	width: 480px;
+	top:50%;
+	left:50%;
+	transform:translate(-50%, -50%);
+
+}
+.svgobj{
+	position: fixed;
+	width: 480px;
+	top:50%;
+	left:50%;
+	transform:translate(-50%, -50%);
+
+}
+
+.hide{
+	visibility: hidden;
+}
